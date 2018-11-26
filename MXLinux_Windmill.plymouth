@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=MXLinux_Windmill
+Description=Attempt to create a boot splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/MXLinux_Windmill
+ScriptFile=/usr/share/plymouth/themes/MXLinux_Windmill/MXLinux_Windmill.script
